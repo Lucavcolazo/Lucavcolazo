@@ -10,8 +10,6 @@ I am Luca <br>Systems engineering student<br>I like technology
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucavcolazo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
