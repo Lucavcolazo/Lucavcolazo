@@ -1,10 +1,9 @@
 # 👨🏽‍💻 About Me:
-I am Luca <br>Systems engineering student<br>I like technology 
+I am Luca <br>Systems engineering student<br>I like technology and programming
 
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lucavcolazo&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucavcolazo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
 
 ---
