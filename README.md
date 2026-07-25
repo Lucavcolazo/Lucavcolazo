@@ -15,7 +15,7 @@
 ```yaml
 name: "Luca Colazo"
 location: "Argentina 🇦🇷"
-studies: "Systems Engineering (3/5)"
+studies: "Systems Engineering (4/5)"
 focus: "Frontend & Full Stack Development"
 interests: ["UI design", "animation", "visual design", "frontend craft"]
 currently: "learning, building, iterating"
