@@ -15,7 +15,7 @@
 ```yaml
 name: "Luca Colazo"
 location: "Argentina 🇦🇷"
-studies: "Systems Engineering (4/5)"
+studies: "Systems Engineering (3/5)"
 focus: "Frontend & Full Stack Development"
 interests: ["UI design", "animation", "visual design", "frontend craft"]
 currently: "learning, building, iterating"
@@ -49,14 +49,10 @@ currently: "learning, building, iterating"
 
 <br/>
 
-<p align="center">
-  <img src="pc.gif" width="300" alt="gif">
-</p>
-
 ### Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lucavcolazo/Lucavcolazo/main/pc.gif" width="300" alt="gif">
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lucavcolazo/Lucavcolazo/output/github-snake-dark.svg" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
