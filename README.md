@@ -49,10 +49,14 @@ currently: "learning, building, iterating"
 
 <br/>
 
+<p align="center">
+  <img src="pc.gif" width="300" alt="gif">
+</p>
+
 ### Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Lucavcolazo/Lucavcolazo/output/github-snake-dark.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lucavcolazo/Lucavcolazo/main/pc.gif" width="300" alt="gif">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
